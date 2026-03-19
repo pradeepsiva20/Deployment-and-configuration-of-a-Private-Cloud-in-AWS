@@ -1,7 +1,7 @@
 # EX - 4 Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
-# Name: KARTHICK V
-# Register Number: 212223040086
+# Name: PRADEEP S
+# Register Number: 212222100034
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
